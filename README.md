@@ -1,5 +1,3 @@
-# AI-Job-Mail-Sender
-Automated job application email sender built with Python or featuring PDF resume attachment support.
 # 📧 AI Job Mail Sender
 
 AI Job Mail Sender is a Streamlit-based application that helps job seekers send professional job application emails with resume attachments directly through Gmail SMTP.
