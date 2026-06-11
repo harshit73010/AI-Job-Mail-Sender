@@ -17,7 +17,7 @@ st.title("📧 AI Job Application Mail Sender")
 # GMAIL CREDENTIALS
 
 sender_email = "harshit73010@gmail.com"
-app_password = "Gmail_APP_PASSWORD"
+app_password = st.secrets["app_password"]
 
 
 # RECRUITER EMAIL
