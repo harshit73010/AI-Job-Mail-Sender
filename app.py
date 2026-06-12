@@ -96,10 +96,6 @@ if st.button("📨 Send Email"):
         st.error("Please enter your Gmail address.")
         st.stop()
 
-    '''if not app_password:
-        st.error("Please enter your Gmail App Password.")
-        st.stop()'''
-
     if not receiver_email:
         st.error("Please enter recruiter email.")
         st.stop()
